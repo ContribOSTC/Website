@@ -1,0 +1,181 @@
+<!DOCTYPE HTML>
+<!--
+   Open Source Technology Consortium
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Open Source Technology Consortium</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="landing">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1 id="logo"><a href="index.html">OPEN SOURCE TECHNOLOGY CONSORTIUM</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="services.html">Services</a></li>
+							<li><a href="elements.html">Events</a></li>
+							<li><a href="#">Products</a></li>
+                            <li><a href="">Teams</a></li>
+                            <li><a>Contact Us</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2>Hey there ! </h2>
+							<p>Welcome to Open Source Technology Consortium<br />
+						  	<blockquote>"Individually, we are one drop. Together, we are an ocean."</blockquote></p>
+						</header>
+						<span class="image"><img src="images/pic01_1.jpg" alt="" /></span>
+					</div>
+					<a href="#one" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- One -->
+				<section id="one" class="spotlight style1 bottom">
+					<span class="image fit main"><img src="images/about.jpg" alt="" /></span>
+					<div class="content">
+						<div class="container">
+							<div class="row">
+								<div class="4u 12u$(medium)">
+									<header>
+										<h2 >About Us</h2>
+										<p></p>
+									</header>
+								</div>
+								<div class="4u 12u$(medium)">
+									<p align="justify">We, at OSTC, believe that learning anything together makes
+                                    us more productive and creative. By putting our heads together we
+                                    can come up with more cohesive, reliable solutions. OSTC aids you
+                                    in doing just this by providing a common platform for enthusiastic
+                                     learners and creative educators to include the industry
+                                     inclination in their non- academic learnings. </p>
+								</div>
+								<div class="4u$ 12u$(medium)">
+									<p align="justify">It's a project for students to collaborate with their peers and
+                                     teachers and bring out disparate solutions to realistic problems
+                                      ranging from design, development, advertising and launch. OSTC
+                                      provides numerous oppotunities for an undergraduate student to
+                                      make the transformation from a newbee geek or artist into a hard
+                                       core, industry-ready, solution provider.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<a href="#two" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Two -->
+				<section id="two" class="spotlight style2 right">
+					<span class="image fit main"><img src="images/services.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Our Services</h2>
+							<p></p>
+						</header>
+						<p align="justify">Open Source Technology Consortium provides a wide range of services for developers, designers, entrepreneurs and investors. OSTC intends to create designers, developers, marketers and makers who will build 	everything from apps, to connected devices, to wildly creative campaigns that reach 	audiences globally.</p>
+						<ul class="actions">
+							<li><a href="#" class="button special fit">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#three" class="goto-next scrolly">Next</a>
+				</section>
+
+			<!-- Three -->
+				<section id="three" class="spotlight style3 left">
+					<span class="image fit main bottom"><img src="images/events.jpg" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>Events</h2>
+							<p></p>
+						</header>
+						<p>OSTC is organizing various events</p>
+						<ul class="actions">
+							<li><a href="#" class="button special fit">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#four" class="goto-next scrolly">Next</a>
+<!--Four-->
+				</section>
+<section id="four" class="wrapper style3 special fade">
+					<!--span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>-->
+					<div class="content">
+						<header>
+							<h2>Portfolio</h2>
+							<p></p>
+						</header>
+						<p>OSTC and it's teams are working on numerous projects , from mobile applications to embedded systems.</p>
+<div class="box alt">
+									<div class="row 50% uniform">
+										
+										<div class="4u  6u(xsmall)"><span class="image fit"><a href=""><img src="images/housing.jpg" alt="" /></a><div><font color=black>Housing App</font></div></span></div>
+										<div class="4u  6u$(xsmall)"><span class="image fit"><a href=""><img src="images/ascan.jpg" alt="" /></a><div><font color=black>A-Scan Biometry</div></font></span></div>
+										<div class="4u  6u$(xsmall)"><span class="image fit"><a href=""><img src="images/runner.jpg" alt="" /></a><div><font color=black>Infinite Runner</font></div></span></div>
+									</div>
+								</div>
+
+						<ul class="actions">
+							<li><a href="#" class="button special fit">Learn More</a></li>
+						</ul>
+					</div>
+					<a href="#three" class="goto-next ">Next</a>
+				</section>
+
+			<!-- Five -->
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2>Contact Us</h2>
+							<p></p>
+						</header>
+						<form method="post" action="#" class="container 50%">
+							<div class="row uniform 50%">
+								<div class="8u 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Your Email Address" /></div>
+								<div class="4u$ 12u$(xsmall)"><input type="submit" value="Get Started" class="fit special" /></div>
+							</div>
+						</form>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="#" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>&copy; Open Source Technology Consortium. All rights reserved.</li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
